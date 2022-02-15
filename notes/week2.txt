@@ -1,0 +1,6 @@
+In lab, should've considered using other graphs like scatter plot and line graph!
+Well done with homework!
+Use one final solution file and delete remaining solutions to avoid confusion! 
+
+lab: 95
+hw: 100
