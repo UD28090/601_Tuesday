@@ -1,0 +1,6 @@
+Make sure you have seperate folders for each week (Week-1, Week-2 etc)
+
+In question 3, shell commands were expected
+Ex: ls
+
+hw: 80
