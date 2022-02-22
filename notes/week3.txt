@@ -1,0 +1,11 @@
+Well done with HW!
+In lab, last 2 questions returned invalid results. 
+
+flights.sort_values(by=['hour', 'minute'])
+
+flights.sort_values(by=['distance'])
+
+would have returned correct results
+
+hw: 100
+lab: 80
