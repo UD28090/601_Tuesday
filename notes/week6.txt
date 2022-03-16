@@ -1,0 +1,5 @@
+Didn't plot age distribution!
+Well done with HW!
+
+lab: 75
+hw: 100
