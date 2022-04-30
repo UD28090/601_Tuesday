@@ -1,0 +1,4 @@
+Cant see your lab week10 file. There is week 11 content in week10.txt
+
+hw: 100
+lab: 0
